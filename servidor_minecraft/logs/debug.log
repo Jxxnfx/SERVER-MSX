@@ -566,3 +566,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jan2025 00:49:49.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/[::1]:52088] logged in with entity id 2669 at (2068.0159768353187, 235.0, -786.2292809670113)
 [05Jan2025 00:49:49.968] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@422f1b3e into net.minecraft.network.Connection@168f0e4
 [05Jan2025 00:49:49.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
+[05Jan2025 00:52:00.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx fell from a high place
+[05Jan2025 00:52:08.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[05Jan2025 00:52:30.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:52:30.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:55:12.949] [Worker-Main-1/ERROR] [net.minecraft.world.level.levelgen.feature.MonsterRoomFeature/]: Failed to fetch mob spawner entity at (1697, -44, -1200)
+[05Jan2025 00:55:32.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
+[05Jan2025 00:55:39.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Gamerule keepInventory is now set to: true]
+[05Jan2025 00:55:52.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx fell from a high place
+[05Jan2025 00:57:29.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx has made the advancement [What a Deal!]
+[05Jan2025 00:57:30.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:57:30.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:57:56.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to zirrocis27]
+[05Jan2025 00:58:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 00:58:01.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 00:58:07.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported zirrocis27 to Jxxnfx]
+[05Jan2025 00:59:12.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 1000]
+[05Jan2025 01:02:22.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 fell from a high place
+[05Jan2025 01:02:31.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 01:02:31.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 01:04:01.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx has made the advancement [Hidden in the Depths]
+[05Jan2025 01:07:30.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 01:07:30.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 01:08:18.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 01:08:18.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 01:09:06.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 160.700000, 17.000000, -216.990000]
