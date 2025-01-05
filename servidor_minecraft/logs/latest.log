@@ -266,3 +266,9 @@
 [05Jan2025 03:10:43.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
 [05Jan2025 03:11:03.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to zirrocis27]
 [05Jan2025 03:11:04.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
+[05Jan2025 03:14:24.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Creative Mode]
+[05Jan2025 03:17:34.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
+[05Jan2025 03:17:49.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Survival Mode]
+[05Jan2025 03:21:16.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 03:21:16.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 03:22:11.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 1000]
