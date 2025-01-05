@@ -298,3 +298,5 @@
 [05Jan2025 03:47:09.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Spectator Mode]
 [05Jan2025 03:47:18.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
 [05Jan2025 03:47:29.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set 27 experience levels on Jxxnfx]
+[05Jan2025 04:32:46.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 04:32:46.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
