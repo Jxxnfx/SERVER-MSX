@@ -11,6 +11,7 @@
       "minecraft:old_growth_pine_taiga": "2024-11-23 17:35:02 +0000",
       "minecraft:cherry_grove": "2024-11-27 02:15:20 +0000",
       "minecraft:birch_forest": "2024-11-23 18:19:53 +0000",
+      "minecraft:bamboo_jungle": "2025-01-05 02:57:35 +0000",
       "minecraft:beach": "2024-11-23 17:37:25 +0000",
       "minecraft:dark_forest": "2024-11-23 18:20:06 +0000",
       "minecraft:sparse_jungle": "2025-01-05 01:47:39 +0000",
@@ -487,6 +488,7 @@
       "minecraft:cave_spider": "2024-11-23 18:06:52 +0000",
       "minecraft:enderman": "2024-11-24 01:56:41 +0000",
       "minecraft:zombie": "2024-11-23 18:08:10 +0000",
+      "minecraft:drowned": "2025-01-05 03:01:26 +0000",
       "minecraft:zombie_villager": "2024-11-25 05:07:53 +0000"
     },
     "done": false
@@ -2759,6 +2761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-05 03:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-01-05 02:00:57 +0000"
@@ -2774,6 +2782,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-01-05 02:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-05 03:02:06 +0000"
     },
     "done": true
   },
@@ -2846,6 +2860,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-05 02:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-05 03:02:06 +0000"
     },
     "done": true
   },
