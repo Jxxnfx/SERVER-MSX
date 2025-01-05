@@ -591,3 +591,149 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jan2025 01:08:18.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
 [05Jan2025 01:08:18.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
 [05Jan2025 01:09:06.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 160.700000, 17.000000, -216.990000]
+[05Jan2025 01:12:30.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 01:12:30.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 01:16:47.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15740, l='ServerLevel[world]', x=-332.37, y=68.00, z=-334.07] died, message: 'Villager suffocated in a wall'
+[05Jan2025 01:16:47.435] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15741, l='ServerLevel[world]', x=-331.63, y=64.00, z=-334.28] died, message: 'Villager suffocated in a wall'
+[05Jan2025 01:17:30.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 01:17:30.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 01:19:57.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zirrocis27> t
+[05Jan2025 01:20:05.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made zirrocis27 a server operator
+[05Jan2025 01:20:09.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 7658.500000, 67.000000, 1053.500000]
+[05Jan2025 01:20:46.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 7658.500000, 90.000000, 1053.500000]
+[05Jan2025 01:20:59.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 7658.500000, 120.000000, 1053.500000]
+[05Jan2025 01:21:00.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 fell from a high place
+[05Jan2025 01:21:04.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 7658.500000, 120.000000, 1053.500000]
+[05Jan2025 01:21:42.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 5464.500000, 80.000000, 1817.500000]
+[05Jan2025 01:22:30.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 01:22:30.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 01:22:33.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 01:22:33.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 01:22:55.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 7292.500000, 42.000000, -182.500000]
+[05Jan2025 01:23:56.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx fell from a high place
+[05Jan2025 01:26:27.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2104.360000, 222.880000, -797.540000]
+[05Jan2025 01:27:30.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 01:27:30.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 01:27:36.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2104.360000, 222.880000, -797.540000]
+[05Jan2025 01:31:57.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 454.500000, 80.000000, 3505.500000]
+[05Jan2025 01:32:30.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 01:32:30.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 01:32:34.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2104.360000, 222.880000, -797.540000]
+[05Jan2025 01:32:59.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 1280.500000, 0.000000, 3704.500000]
+[05Jan2025 01:34:25.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx burned to death
+[05Jan2025 01:35:30.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to -4303.500000, -48.000000, 2088.500000]
+[05Jan2025 01:35:32.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 tried to swim in lava
+[05Jan2025 01:35:49.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 1896.500000, -32.000000, 4240.500000]
+[05Jan2025 01:36:56.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[05Jan2025 01:37:09.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked zirrocis27: Kicked by an operator
+[05Jan2025 01:37:09.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 lost connection: Kicked by an operator
+[05Jan2025 01:37:09.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 left the game
+[05Jan2025 01:37:18.023] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:37:18.024] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:37:18.024] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:37:18.024] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:37:18.024] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:37:18.024] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:37:18.024] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:37:18.024] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[05Jan2025 01:37:18.024] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[05Jan2025 01:37:18.033] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[05Jan2025 01:37:18.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/[::1]:37122] logged in with entity id 30568 at (1780.2943076914348, -42.0, 4170.682537318584)
+[05Jan2025 01:37:18.094] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@2953ca84 into net.minecraft.network.Connection@4b62b7a4
+[05Jan2025 01:37:18.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
+[05Jan2025 01:37:30.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 01:37:30.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 01:38:36.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 3696.500000, 128.000000, 9048.500000]
+[05Jan2025 01:38:36.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx moved too quickly! 3.406280707789392,-4.385759373429551,8.367458206210586
+[05Jan2025 01:38:37.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 was doomed to fall by Spider
+[05Jan2025 01:38:43.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 3696.500000, 128.000000, 9048.500000]
+[05Jan2025 01:38:54.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx fell from a high place
+[05Jan2025 01:39:41.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 was impaled on a stalagmite whilst fighting Skeleton
+[05Jan2025 01:39:55.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 5160.500000, 16.000000, 12000.500000]
+[05Jan2025 01:39:57.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 fell from a high place
+[05Jan2025 01:40:03.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 5160.500000, 0.000000, 12000.500000]
+[05Jan2025 01:40:05.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 fell from a high place
+[05Jan2025 01:40:13.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 5160.500000, -30.000000, 12000.500000]
+[05Jan2025 01:42:30.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 01:42:30.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 01:43:11.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 burned to death
+[05Jan2025 01:43:14.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported zirrocis27 to -4450.500000, -9.000000, -1126.500000]
+[05Jan2025 01:43:37.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to -4832.500000, -47.000000, -1181.500000]
+[05Jan2025 01:43:44.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported zirrocis27 to Jxxnfx]
+[05Jan2025 01:44:12.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to -4836.500000, -4.000000, -1191.500000]
+[05Jan2025 01:44:34.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
+[05Jan2025 01:46:49.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to -6931.500000, -45.000000, -488.500000]
+[05Jan2025 01:46:52.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
+[05Jan2025 01:47:22.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported zirrocis27 to -7626.500000, -29.000000, -561.500000]
+[05Jan2025 01:47:30.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 01:47:30.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 01:47:38.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to -7629.500000, -29.000000, -569.500000]
+[05Jan2025 01:48:18.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 01:48:18.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 01:50:26.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked zirrocis27: Kicked by an operator
+[05Jan2025 01:50:26.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 lost connection: Kicked by an operator
+[05Jan2025 01:50:26.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 left the game
+[05Jan2025 01:50:28.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set 845 experience levels on Jxxnfx]
+[05Jan2025 01:50:31.033] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:50:31.033] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:50:31.033] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:50:31.033] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:50:31.033] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:50:31.033] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:50:31.033] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:50:31.033] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[05Jan2025 01:50:31.033] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[05Jan2025 01:50:31.083] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[05Jan2025 01:50:31.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/[::1]:37784] logged in with entity id 39199 at (-7625.659248266538, -29.0, -565.1710523149547)
+[05Jan2025 01:50:31.145] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@69850870 into net.minecraft.network.Connection@2a9b7b4
+[05Jan2025 01:50:31.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
+[05Jan2025 01:51:31.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 01:51:31.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 01:51:45.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 1000]
+[05Jan2025 01:52:30.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 01:52:30.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 01:53:13.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx has made the advancement [Enchanter]
+[05Jan2025 01:53:30.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 01:53:30.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 01:55:15.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 01:55:15.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 01:56:18.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 01:56:18.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 01:57:30.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 01:57:30.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 01:58:22.912] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:58:22.912] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:58:22.913] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:58:22.913] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:58:22.913] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:58:22.913] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:58:22.913] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[05Jan2025 01:58:22.913] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[05Jan2025 01:58:22.913] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[05Jan2025 01:58:22.939] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[05Jan2025 01:58:23.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: You logged in from another location
+[05Jan2025 01:58:23.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[05Jan2025 01:58:23.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/[::1]:54446] logged in with entity id 43360 at (2089.448256643609, 94.0, -900.1045074686585)
+[05Jan2025 01:58:23.049] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@636f1dcc into net.minecraft.network.Connection@ad512c9
+[05Jan2025 01:58:23.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
+[05Jan2025 01:58:44.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 01:58:44.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 02:00:15.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 02:00:15.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 02:02:08.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to -3199.500000, 44.000000, -783.500000]
+[05Jan2025 02:02:08.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx has made the advancement [Those Were the Days]
+[05Jan2025 02:02:08.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx has completed the challenge [Hot Tourist Destinations]
+[05Jan2025 02:02:13.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to -3199.500000, 25.093951, -783.500000]
+[05Jan2025 02:02:17.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx tried to swim in lava
+[05Jan2025 02:02:30.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 02:02:30.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 02:03:21.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to -3194.500000, 43.000000, -783.500000]
+[05Jan2025 02:03:41.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx has made the advancement [War Pigs]
+[05Jan2025 02:03:46.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx tried to swim in lava
+[05Jan2025 02:05:16.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to zirrocis27]
+[05Jan2025 02:07:30.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 02:07:30.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 02:12:23.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 02:12:23.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 02:12:30.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 02:12:30.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
