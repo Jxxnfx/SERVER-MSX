@@ -1,26 +1,26 @@
 [
-    {
-      "uuid": "9e375062-7c4a-3334-9a7c-545a247a27ad",
-      "name": "juandacorba04",
-      "level": 4,
-      "bypassesPlayerLimit": false
-    },
-    {
-      "uuid": "79ecb191-adb9-3267-9f42-43132df5c663",
-      "name": "tomachimbo25",
-      "level": 4,
-      "bypassesPlayerLimit": false
-    },
-    {
-      "uuid": "63ce9d0e-5803-323b-aac5-6c3a51ef2fcc",
-      "name": "Jxxnfx",
-      "level": 4,
-      "bypassesPlayerLimit": false
-    },
-    {
-      "uuid": "0b3e66e6-e48c-4ada-b441-2c8cad2fff12",
-      "name": "Jxxnfx",
-      "level": 4,
-      "bypassesPlayerLimit": false
-    }
-  ]
+  {
+    "uuid": "9e375062-7c4a-3334-9a7c-545a247a27ad",
+    "name": "juandacorba04",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "79ecb191-adb9-3267-9f42-43132df5c663",
+    "name": "tomachimbo25",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "63ce9d0e-5803-323b-aac5-6c3a51ef2fcc",
+    "name": "Jxxnfx",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0b3e66e6-e48c-4ada-b441-2c8cad2fff12",
+    "name": "Jxxnfx",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
