@@ -872,3 +872,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jan2025 03:22:11.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 1000]
 [05Jan2025 03:22:30.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jan2025 03:22:30.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 03:25:42.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 03:25:42.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 03:26:07.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 03:26:07.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 03:26:25.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Creative Mode]
+[05Jan2025 03:27:30.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 03:27:30.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 03:27:54.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 03:27:54.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 03:29:39.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[05Jan2025 03:29:51.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
+[05Jan2025 03:30:47.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[05Jan2025 03:30:55.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Survival Mode]
+[05Jan2025 03:30:58.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
+[05Jan2025 03:31:20.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[05Jan2025 03:31:20.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[05Jan2025 03:32:24.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 lost connection: Timed out
+[05Jan2025 03:32:24.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 left the game
+[05Jan2025 03:32:26.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[05Jan2025 03:32:30.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 03:32:30.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
