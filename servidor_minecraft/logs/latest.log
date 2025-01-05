@@ -53,3 +53,4 @@
 [05Jan2025 23:22:37.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/[::1]:51480] logged in with entity id 79 at (2148.3516367654047, 204.7847008684442, -816.2730881971992)
 [05Jan2025 23:22:37.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
 [05Jan2025 23:22:39.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[05Jan2025 23:34:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the weather to clear]
