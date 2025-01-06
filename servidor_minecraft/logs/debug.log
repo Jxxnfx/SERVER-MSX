@@ -598,3 +598,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Jan2025 01:27:45.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/14281, l='ServerLevel[world]', x=3107.70, y=55.53, z=740.34] died, message: 'Weaponsmith was slain by Zombie'
 [06Jan2025 01:31:55.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jan2025 01:31:55.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 01:33:23.648] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14236, l='ServerLevel[world]', x=3057.10, y=65.00, z=722.86] died, message: 'Villager was slain by Jxxnfx'
+[06Jan2025 01:36:29.141] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/14234, l='ServerLevel[world]', x=3067.07, y=68.00, z=699.98] died, message: 'Weaponsmith was slain by Jxxnfx'
+[06Jan2025 01:36:55.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 01:36:55.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 01:36:55.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/14260, l='ServerLevel[world]', x=3068.66, y=66.00, z=798.30] died, message: 'Shepherd was slain by Jxxnfx'
+[06Jan2025 01:37:38.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jxxnfx> 3058 76 750
+[06Jan2025 01:37:47.542] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/14233, l='ServerLevel[world]', x=3121.97, y=68.00, z=758.12] died, message: 'Weaponsmith was slain by Jxxnfx'
+[06Jan2025 01:41:55.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 01:41:55.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
