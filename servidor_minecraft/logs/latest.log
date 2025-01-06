@@ -60,3 +60,15 @@
 [06Jan2025 02:31:19.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
 [06Jan2025 02:31:50.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/[::1]:57954] logged in with entity id 36857 at (2113.48927276016, 219.0, -868.443993785417)
 [06Jan2025 02:31:50.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
+[06Jan2025 02:33:10.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed 254 entities]
+[06Jan2025 02:33:20.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: Timed out
+[06Jan2025 02:33:20.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[06Jan2025 02:33:37.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/[::1]:55266] logged in with entity id 38174 at (2113.48927276016, 219.0, -868.443993785417)
+[06Jan2025 02:33:37.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
+[06Jan2025 02:34:05.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed 108 entities]
+[06Jan2025 02:34:15.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed 371 entities]
+[06Jan2025 02:34:20.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed 138 entities]
+[06Jan2025 02:36:37.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: You logged in from another location
+[06Jan2025 02:36:37.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[06Jan2025 02:36:37.491] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/[::1]:41100] logged in with entity id 40481 at (2114.045843022573, 221.5, -865.9056439185903)
+[06Jan2025 02:36:37.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
