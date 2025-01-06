@@ -18,3 +18,5 @@
 [06Jan2025 01:36:55.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/14260, l='ServerLevel[world]', x=3068.66, y=66.00, z=798.30] died, message: 'Shepherd was slain by Jxxnfx'
 [06Jan2025 01:37:38.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jxxnfx> 3058 76 750
 [06Jan2025 01:37:47.542] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/14233, l='ServerLevel[world]', x=3121.97, y=68.00, z=758.12] died, message: 'Weaponsmith was slain by Jxxnfx'
+[06Jan2025 01:56:47.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 13000]
+[06Jan2025 01:57:26.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 1000]
