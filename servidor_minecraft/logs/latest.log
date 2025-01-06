@@ -72,3 +72,13 @@
 [06Jan2025 02:36:37.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
 [06Jan2025 02:36:37.491] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/[::1]:41100] logged in with entity id 40481 at (2114.045843022573, 221.5, -865.9056439185903)
 [06Jan2025 02:36:37.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
+[06Jan2025 03:57:14.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Spectator Mode]
+[06Jan2025 03:57:15.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[06Jan2025 03:57:16.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Spectator Mode]
+[06Jan2025 03:57:17.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[06Jan2025 03:57:53.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Spectator Mode]
+[06Jan2025 03:57:55.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[06Jan2025 03:58:55.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
+[06Jan2025 03:59:12.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[06Jan2025 04:00:24.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
+[06Jan2025 04:01:01.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 3058.500000, 76.000000, 750.500000]
