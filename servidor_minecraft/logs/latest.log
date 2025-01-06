@@ -36,3 +36,27 @@
 [06Jan2025 02:20:12.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
 [06Jan2025 02:20:20.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
 [06Jan2025 02:20:57.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[06Jan2025 02:24:15.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
+[06Jan2025 02:24:41.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: Timed out
+[06Jan2025 02:24:41.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[06Jan2025 02:25:11.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/[::1]:35720] logged in with entity id 33045 at (2109.259966822698, 224.24918707874468, -849.25937533333)
+[06Jan2025 02:25:11.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
+[06Jan2025 02:25:27.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[06Jan2025 02:25:50.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
+[06Jan2025 02:25:56.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: Timed out
+[06Jan2025 02:25:56.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[06Jan2025 02:26:08.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/[::1]:50380] logged in with entity id 34343 at (2121.161892255875, 223.0, -849.8661610028628)
+[06Jan2025 02:26:08.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
+[06Jan2025 02:26:56.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: You logged in from another location
+[06Jan2025 02:26:56.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[06Jan2025 02:26:56.664] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/[::1]:58348] logged in with entity id 35667 at (2123.608915982011, 223.1875, -845.9112730340963)
+[06Jan2025 02:26:56.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
+[06Jan2025 02:28:48.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[06Jan2025 02:30:34.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: You logged in from another location
+[06Jan2025 02:30:34.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[06Jan2025 02:30:34.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/[::1]:35304] logged in with entity id 36744 at (2113.48927276016, 219.0, -868.443993785417)
+[06Jan2025 02:30:34.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
+[06Jan2025 02:31:19.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: Timed out
+[06Jan2025 02:31:19.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[06Jan2025 02:31:50.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/[::1]:57954] logged in with entity id 36857 at (2113.48927276016, 219.0, -868.443993785417)
+[06Jan2025 02:31:50.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
