@@ -12,3 +12,4 @@
 [06Jan2025 01:20:40.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14232, l='ServerLevel[world]', x=3067.30, y=62.82, z=726.59] died, message: 'Villager was slain by Jxxnfx'
 [06Jan2025 01:20:42.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14225, l='ServerLevel[world]', x=3067.30, y=61.94, z=725.46] died, message: 'Villager was slain by Jxxnfx'
 [06Jan2025 01:22:02.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 13000]
+[06Jan2025 01:27:45.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/14281, l='ServerLevel[world]', x=3107.70, y=55.53, z=740.34] died, message: 'Weaponsmith was slain by Zombie'
