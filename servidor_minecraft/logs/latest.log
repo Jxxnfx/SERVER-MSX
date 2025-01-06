@@ -20,3 +20,19 @@
 [06Jan2025 01:37:47.542] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/14233, l='ServerLevel[world]', x=3121.97, y=68.00, z=758.12] died, message: 'Weaponsmith was slain by Jxxnfx'
 [06Jan2025 01:56:47.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 13000]
 [06Jan2025 01:57:26.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 1000]
+[06Jan2025 02:09:06.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2164.500000, 76.000000, -810.500000]
+[06Jan2025 02:09:20.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2164.500000, 120.000000, -810.500000]
+[06Jan2025 02:09:25.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2164.500000, 200.000000, -810.500000]
+[06Jan2025 02:10:28.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 3058.500000, 76.000000, 750.500000]
+[06Jan2025 02:10:36.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2164.500000, 200.000000, -810.500000]
+[06Jan2025 02:10:53.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jxxnfx> 2138
+[06Jan2025 02:10:57.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jxxnfx> 210
+[06Jan2025 02:11:00.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jxxnfx> -801
+[06Jan2025 02:11:02.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2164.500000, 200.000000, -810.500000]
+[06Jan2025 02:11:05.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 3058.500000, 76.000000, 750.500000]
+[06Jan2025 02:17:20.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 13000]
+[06Jan2025 02:19:05.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2164.500000, 200.000000, -810.500000]
+[06Jan2025 02:19:26.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
+[06Jan2025 02:20:12.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[06Jan2025 02:20:20.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
+[06Jan2025 02:20:57.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
