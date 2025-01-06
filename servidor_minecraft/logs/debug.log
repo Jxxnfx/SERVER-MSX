@@ -586,3 +586,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [06Jan2025 01:09:49.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/14254, l='ServerLevel[world]', x=3097.26, y=69.00, z=746.05] died, message: 'Weaponsmith was slain by Zombie'
 [06Jan2025 01:11:55.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jan2025 01:11:55.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 01:16:55.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 01:16:55.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 01:20:40.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14232, l='ServerLevel[world]', x=3067.30, y=62.82, z=726.59] died, message: 'Villager was slain by Jxxnfx'
+[06Jan2025 01:20:42.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14225, l='ServerLevel[world]', x=3067.30, y=61.94, z=725.46] died, message: 'Villager was slain by Jxxnfx'
+[06Jan2025 01:21:55.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 01:21:55.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 01:22:02.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 13000]
