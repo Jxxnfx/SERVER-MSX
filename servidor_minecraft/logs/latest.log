@@ -49,3 +49,34 @@
 [07Jan2025 02:51:43.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/100.107.13.89:61366] logged in with entity id 62 at (2066.436342042756, 234.0, -795.1581671616156)
 [07Jan2025 02:51:43.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
 [07Jan2025 02:56:00.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 3058.500000, 76.000000, 750.500000]
+[07Jan2025 03:10:22.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/100.124.154.37:49725] logged in with entity id 4062 at (-7618.752365848105, -35.0, -566.814035730912)
+[07Jan2025 03:10:22.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
+[07Jan2025 03:12:52.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
+[07Jan2025 03:15:35.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
+[07Jan2025 03:16:00.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2138.500000, 210.000000, -800.500000]
+[07Jan2025 03:16:01.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to -7617.700000, -35.000000, -564.980000]
+[07Jan2025 03:16:13.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
+[07Jan2025 03:18:55.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx fell from a high place
+[07Jan2025 03:19:09.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 fell from a high place
+[07Jan2025 03:19:13.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
+[07Jan2025 03:19:23.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 fell from a high place
+[07Jan2025 03:19:27.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
+[07Jan2025 03:19:38.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the weather to clear]
+[07Jan2025 03:20:01.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 has made the advancement [We Need to Go Deeper]
+[07Jan2025 03:20:43.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=47, z=-84} BlockPos{x=257, y=46, z=-84}
+[07Jan2025 03:20:43.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=47, z=-84} BlockPos{x=257, y=46, z=-84}
+[07Jan2025 03:20:43.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=47, z=-84} BlockPos{x=257, y=46, z=-84}
+[07Jan2025 03:20:43.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=47, z=-84} BlockPos{x=257, y=46, z=-84}
+[07Jan2025 03:20:43.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=47, z=-84} BlockPos{x=257, y=46, z=-84}
+[07Jan2025 03:20:44.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=47, z=-84} BlockPos{x=257, y=46, z=-84}
+[07Jan2025 03:20:44.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=47, z=-84} BlockPos{x=257, y=46, z=-84}
+[07Jan2025 03:20:44.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=47, z=-84} BlockPos{x=257, y=46, z=-84}
+[07Jan2025 03:20:44.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=47, z=-84} BlockPos{x=257, y=46, z=-84}
+[07Jan2025 03:20:44.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=257, y=47, z=-84} BlockPos{x=257, y=46, z=-84}
+[07Jan2025 03:20:55.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[07Jan2025 03:21:00.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 3058.500000, 76.000000, 750.500000]
+[07Jan2025 03:21:03.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
+[07Jan2025 03:22:49.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 3058.500000, 76.000000, 750.500000]
+[07Jan2025 03:22:51.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
+[07Jan2025 03:23:35.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to -7617.700000, -35.000000, -564.980000]
+[07Jan2025 03:23:47.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 has made the advancement [Cover Me with Diamonds]
