@@ -135,3 +135,5 @@
 [07Jan2025 21:03:37.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Killed zirrocis27]
 [07Jan2025 21:03:42.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Survival Mode]
 [07Jan2025 21:04:45.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 has made the advancement [Crafting a New Look]
+[07Jan2025 21:05:56.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 lost connection: Disconnected
+[07Jan2025 21:05:56.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 left the game
