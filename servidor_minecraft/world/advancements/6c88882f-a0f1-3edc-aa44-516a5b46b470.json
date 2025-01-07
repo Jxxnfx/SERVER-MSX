@@ -1527,6 +1527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-07 05:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-07 03:18:33 +0000"
@@ -1591,9 +1597,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-01-07 03:20:23 +0000",
       "minecraft:nether_wastes": "2025-01-07 03:20:01 +0000",
+      "minecraft:soul_sand_valley": "2025-01-07 05:04:02 +0000",
+      "minecraft:basalt_deltas": "2025-01-07 05:05:46 +0000",
       "minecraft:warped_forest": "2025-01-07 04:50:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
@@ -1604,6 +1612,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-01-07 03:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-01-07 05:04:49 +0000"
     },
     "done": true
   },
@@ -1706,6 +1720,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-07 04:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-07 05:04:49 +0000"
     },
     "done": true
   },
@@ -1856,6 +1876,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-07 04:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-01-07 05:02:26 +0000"
     },
     "done": true
   },
