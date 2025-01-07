@@ -80,3 +80,10 @@
 [07Jan2025 17:26:19.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Creative Mode]
 [07Jan2025 17:27:09.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Spectator Mode]
 [07Jan2025 17:27:17.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Survival Mode]
+[07Jan2025 17:56:27.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 9456.500000, -34.500000, 16.500000]
+[07Jan2025 17:56:27.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[07Jan2025 17:56:37.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 9456.500000, 80.000000, 16.500000]
+[07Jan2025 17:57:31.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Creative Mode]
+[07Jan2025 17:57:40.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Survival Mode]
+[07Jan2025 17:59:24.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 was killed
+[07Jan2025 17:59:24.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Killed zirrocis27]
