@@ -877,7 +877,9 @@
       "minecraft:magma_cube": "2025-01-07 04:49:06 +0000",
       "minecraft:spider": "2024-11-24 23:50:21 +0000",
       "minecraft:piglin_brute": "2025-01-07 04:46:04 +0000",
+      "minecraft:creeper": "2025-01-07 20:20:36 +0000",
       "minecraft:zombified_piglin": "2025-01-07 04:48:13 +0000",
+      "minecraft:cave_spider": "2025-01-07 20:21:26 +0000",
       "minecraft:piglin": "2025-01-07 03:20:20 +0000",
       "minecraft:zombie": "2024-11-24 23:44:14 +0000",
       "minecraft:drowned": "2025-01-07 03:56:48 +0000",
@@ -1891,6 +1893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-07 20:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-01-07 18:43:15 +0000"
@@ -1903,9 +1911,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-07 20:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-01-07 17:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-07 20:19:26 +0000"
     },
     "done": true
   },
@@ -1915,15 +1935,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-07 20:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-07 20:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-07 20:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-01-07 17:56:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-07 20:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-07 20:19:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-01-07 17:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-07 20:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-07 20:24:06 +0000"
     },
     "done": true
   },
