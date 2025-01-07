@@ -872,6 +872,7 @@
       "minecraft:spider": "2024-11-24 23:50:21 +0000",
       "minecraft:piglin": "2025-01-07 03:20:20 +0000",
       "minecraft:zombie": "2024-11-24 23:44:14 +0000",
+      "minecraft:drowned": "2025-01-07 03:56:48 +0000",
       "minecraft:zombie_villager": "2025-01-05 01:25:28 +0000"
     },
     "done": false
@@ -1470,9 +1471,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-07 03:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-01-07 03:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-07 03:55:17 +0000"
     },
     "done": true
   },
@@ -1509,6 +1522,12 @@
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-07 03:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-07 03:55:17 +0000"
     },
     "done": true
   },
