@@ -92,3 +92,8 @@
 [08Jan2025 03:50:05.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 left the game
 [08Jan2025 03:50:06.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/100.124.154.37:61925] logged in with entity id 24523 at (2153.4284209366424, 128.0, -1079.1616764231105)
 [08Jan2025 03:50:06.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
+[08Jan2025 03:59:09.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
+[08Jan2025 03:59:18.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[08Jan2025 03:59:26.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 1000]
+[08Jan2025 04:00:04.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
+[08Jan2025 04:00:10.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
