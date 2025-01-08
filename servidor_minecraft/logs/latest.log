@@ -1,143 +1,51 @@
-[08Jan2025 02:57:45.952] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[08Jan2025 02:57:45.956] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[08Jan2025 02:57:46.065] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[08Jan2025 02:57:46.115] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-MSX/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[08Jan2025 02:57:46.354] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MSX/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[08Jan2025 02:57:46.356] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MSX/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Jan2025 02:57:46.359] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MSX/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Jan2025 02:57:46.361] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MSX/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Jan2025 02:57:46.442] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[08Jan2025 02:57:47.960] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[08Jan2025 02:57:53.576] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[08Jan2025 02:57:53.579] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[08Jan2025 02:57:54.249] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[08Jan2025 02:57:54.723] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[08Jan2025 02:57:55.087] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08Jan2025 02:57:55.744] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
-[08Jan2025 02:57:55.744] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
-[08Jan2025 02:57:57.268] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[08Jan2025 02:57:57.381] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[08Jan2025 02:57:57.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[08Jan2025 02:57:57.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[08Jan2025 02:57:57.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[08Jan2025 02:57:57.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[08Jan2025 02:57:57.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[08Jan2025 02:57:57.964] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[08Jan2025 02:57:58.051] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08Jan2025 02:57:58.052] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[08Jan2025 02:57:58.052] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08Jan2025 02:57:58.052] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[08Jan2025 02:57:58.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[08Jan2025 02:58:00.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[08Jan2025 02:58:04.574] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jan2025 02:58:04.580] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jan2025 02:58:04.581] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jan2025 02:58:04.581] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jan2025 02:58:04.582] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jan2025 02:58:04.583] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jan2025 02:58:04.584] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jan2025 02:58:04.584] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jan2025 02:58:04.840] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jan2025 02:58:05.339] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
-[08Jan2025 02:58:05.632] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4794 ms
-[08Jan2025 02:58:05.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.562s)! For help, type "help"
-[08Jan2025 02:58:05.653] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[08Jan2025 02:58:09.023] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/100.107.13.89:49378] logged in with entity id 62 at (2097.6414148739777, 222.0, -796.499528781105)
-[08Jan2025 02:58:09.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
-[08Jan2025 02:58:11.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[08Jan2025 02:58:21.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Gave 1 [Command Block] to Jxxnfx]
-[08Jan2025 02:58:28.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/100.124.154.37:61517] logged in with entity id 555 at (2086.5507612407914, 104.0, -808.8769340993746)
-[08Jan2025 02:58:28.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
-[08Jan2025 02:59:21.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Jxxnfx to 3058.500000, 76.000000, 750.500000]
-[08Jan2025 03:00:42.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Jxxnfx to 2138.500000, 210.000000, -800.500000]
-[08Jan2025 03:01:55.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
-[08Jan2025 03:03:58.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported zirrocis27 to Jxxnfx]
-[08Jan2025 03:04:49.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set the weather to clear]
-[08Jan2025 03:05:08.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 fell from a high place
-[08Jan2025 03:05:13.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported zirrocis27 to Jxxnfx]
-[08Jan2025 03:05:18.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 was doomed to fall by Jxxnfx
-[08Jan2025 03:05:25.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported zirrocis27 to Jxxnfx]
-[08Jan2025 03:05:54.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to zirrocis27]
-[08Jan2025 03:09:12.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx fell from a high place
-[08Jan2025 03:10:18.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
-[08Jan2025 03:10:36.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx fell from a high place
-[08Jan2025 03:10:47.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 fell from a high place
-[08Jan2025 03:10:50.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
-[08Jan2025 03:11:08.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx fell from a high place
-[08Jan2025 03:11:29.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
-[08Jan2025 03:12:03.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
-[08Jan2025 03:12:03.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
-[08Jan2025 03:15:55.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
-[08Jan2025 03:15:55.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
-[08Jan2025 03:22:11.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx fell from a high place
-[08Jan2025 03:22:54.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Spectator Mode]
-[08Jan2025 03:25:00.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zirrocis27> con todo respeto pero que casa de mierda la de tomas
-[08Jan2025 03:25:29.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Survival Mode]
-[08Jan2025 03:26:09.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Creative Mode]
-[08Jan2025 03:26:49.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
-[08Jan2025 03:27:59.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2547.500000, 246.951046, 941.500000]
-[08Jan2025 03:27:59.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 moved too quickly! 0.01639223860115635,1.4950660194469805,9.986447088127647
-[08Jan2025 03:28:13.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
-[08Jan2025 03:31:08.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
-[08Jan2025 03:31:32.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
-[08Jan2025 03:31:32.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
-[08Jan2025 03:31:43.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
-[08Jan2025 03:31:44.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2695.920000, 70.000000, 1021.140000]
-[08Jan2025 03:31:47.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 2103.500000, 222.000000, -794.500000]
-[08Jan2025 03:47:40.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 lost connection: Disconnected
-[08Jan2025 03:47:40.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 left the game
-[08Jan2025 03:47:40.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/100.124.154.37:61906] logged in with entity id 23614 at (2119.300000011921, 127.04751105970442, -1105.300000011921)
-[08Jan2025 03:47:40.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
-[08Jan2025 03:50:05.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 lost connection: Disconnected
-[08Jan2025 03:50:05.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 left the game
-[08Jan2025 03:50:06.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/100.124.154.37:61925] logged in with entity id 24523 at (2153.4284209366424, 128.0, -1079.1616764231105)
-[08Jan2025 03:50:06.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
-[08Jan2025 03:59:09.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
-[08Jan2025 03:59:18.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
-[08Jan2025 03:59:26.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 1000]
-[08Jan2025 04:00:04.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
-[08Jan2025 04:00:10.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
-[08Jan2025 04:38:41.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
-[08Jan2025 04:54:57.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 2103.500000, 222.000000, -794.500000]
-[08Jan2025 04:56:19.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 1862.820000, 123.000000, -431.680000]
-[08Jan2025 04:56:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
-[08Jan2025 04:58:39.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 13000]
-[08Jan2025 04:59:40.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 1862.820000, 123.000000, -431.680000]
-[08Jan2025 05:01:16.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set the weather to clear]
-[08Jan2025 05:10:03.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jxxnfx> kill
-[08Jan2025 05:10:06.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
-[08Jan2025 05:10:06.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
-[08Jan2025 05:10:41.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2715.500000, 71.000000, 1036.500000]
-[08Jan2025 05:11:15.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 2103.500000, 222.000000, -794.500000]
-[08Jan2025 05:11:15.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
-[08Jan2025 05:11:15.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
-[08Jan2025 05:11:21.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 1862.820000, 123.000000, -431.680000]
-[08Jan2025 05:11:31.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 3058.500000, 76.000000, 750.500000]
-[08Jan2025 05:11:34.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Jxxnfx to 2138.500000, 210.000000, -800.500000]
-[08Jan2025 05:11:41.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2715.500000, 71.000000, 1036.500000]
-[08Jan2025 05:12:06.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Gave 1 [Command Block] to Jxxnfx]
-[08Jan2025 05:12:43.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Jxxnfx to 2138.500000, 210.000000, -799.500000]
-[08Jan2025 05:14:15.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Jxxnfx to 2715.500000, 71.000000, 1036.500000]
-[08Jan2025 05:14:15.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported zirrocis27 to 3058.500000, 76.000000, 750.500000]
-[08Jan2025 05:14:28.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Jxxnfx to 2138.500000, 210.000000, -799.500000]
-[08Jan2025 05:14:53.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 1862.820000, 123.000000, -431.680000]
-[08Jan2025 05:15:28.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Jxxnfx to 2715.500000, 71.000000, 1036.500000]
-[08Jan2025 05:18:57.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx has made the advancement [Glow and Behold!]
-[08Jan2025 05:22:04.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
-[08Jan2025 05:24:33.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
-[08Jan2025 05:32:51.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
-[08Jan2025 05:32:55.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 lost connection: Disconnected
-[08Jan2025 05:32:55.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 left the game
-[08Jan2025 05:32:59.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Jxxnfx to 2138.500000, 210.000000, -799.500000]
-[08Jan2025 05:33:35.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: Disconnected
-[08Jan2025 05:33:35.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
-[08Jan2025 05:33:52.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[08Jan2025 05:33:52.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[08Jan2025 05:33:52.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[08Jan2025 05:33:53.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08Jan2025 05:33:53.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[08Jan2025 05:33:53.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[08Jan2025 05:33:53.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08Jan2025 05:33:53.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08Jan2025 05:33:53.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08Jan2025 05:33:53.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jan2025 17:13:24.443] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[08Jan2025 17:13:24.447] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[08Jan2025 17:13:24.594] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[08Jan2025 17:13:24.668] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-MSX/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[08Jan2025 17:13:25.011] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MSX/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[08Jan2025 17:13:25.030] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MSX/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Jan2025 17:13:25.035] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MSX/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Jan2025 17:13:25.038] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-MSX/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Jan2025 17:13:25.171] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[08Jan2025 17:13:27.144] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[08Jan2025 17:13:34.829] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[08Jan2025 17:13:34.831] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[08Jan2025 17:13:35.656] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Jan2025 17:13:36.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[08Jan2025 17:13:36.950] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Jan2025 17:13:38.073] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[08Jan2025 17:13:38.074] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-MSX/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[08Jan2025 17:13:39.747] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[08Jan2025 17:13:39.897] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[08Jan2025 17:13:40.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[08Jan2025 17:13:40.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Jan2025 17:13:40.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Jan2025 17:13:40.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Jan2025 17:13:40.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Jan2025 17:13:40.561] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Jan2025 17:13:40.656] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Jan2025 17:13:40.657] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Jan2025 17:13:40.657] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Jan2025 17:13:40.657] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Jan2025 17:13:40.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Jan2025 17:13:44.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Jan2025 17:13:48.255] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 17:13:48.324] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 17:13:48.360] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 17:13:48.386] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 17:13:48.398] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 17:13:48.427] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 17:13:48.460] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 17:13:48.465] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 17:13:48.474] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 17:13:48.765] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 17:13:49.212] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 17:13:49.709] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jan2025 17:13:50.208] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[08Jan2025 17:13:50.707] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 61%
+[08Jan2025 17:13:51.029] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6822 ms
+[08Jan2025 17:13:51.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.317s)! For help, type "help"
+[08Jan2025 17:13:51.052] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Jan2025 17:13:54.924] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/100.124.154.37:50370] logged in with entity id 62 at (2698.990168809137, 71.0, 1033.5622285671946)
+[08Jan2025 17:13:55.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
+[08Jan2025 17:13:57.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2592ms or 51 ticks behind
