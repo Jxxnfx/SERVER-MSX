@@ -69,3 +69,22 @@
 [08Jan2025 03:12:03.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
 [08Jan2025 03:15:55.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
 [08Jan2025 03:15:55.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[08Jan2025 03:22:11.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx fell from a high place
+[08Jan2025 03:22:54.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Spectator Mode]
+[08Jan2025 03:25:00.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zirrocis27> con todo respeto pero que casa de mierda la de tomas
+[08Jan2025 03:25:29.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Survival Mode]
+[08Jan2025 03:26:09.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Set own game mode to Creative Mode]
+[08Jan2025 03:26:49.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[08Jan2025 03:27:59.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2547.500000, 246.951046, 941.500000]
+[08Jan2025 03:27:59.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 moved too quickly! 0.01639223860115635,1.4950660194469805,9.986447088127647
+[08Jan2025 03:28:13.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
+[08Jan2025 03:31:08.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
+[08Jan2025 03:31:32.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[08Jan2025 03:31:32.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[08Jan2025 03:31:43.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
+[08Jan2025 03:31:44.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 2695.920000, 70.000000, 1021.140000]
+[08Jan2025 03:31:47.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 2103.500000, 222.000000, -794.500000]
+[08Jan2025 03:47:40.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 lost connection: Disconnected
+[08Jan2025 03:47:40.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 left the game
+[08Jan2025 03:47:40.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/100.124.154.37:61906] logged in with entity id 23614 at (2119.300000011921, 127.04751105970442, -1105.300000011921)
+[08Jan2025 03:47:40.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
