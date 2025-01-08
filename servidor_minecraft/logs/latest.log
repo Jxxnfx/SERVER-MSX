@@ -88,3 +88,7 @@
 [08Jan2025 03:47:40.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 left the game
 [08Jan2025 03:47:40.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/100.124.154.37:61906] logged in with entity id 23614 at (2119.300000011921, 127.04751105970442, -1105.300000011921)
 [08Jan2025 03:47:40.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
+[08Jan2025 03:50:05.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 lost connection: Disconnected
+[08Jan2025 03:50:05.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 left the game
+[08Jan2025 03:50:06.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/100.124.154.37:61925] logged in with entity id 24523 at (2153.4284209366424, 128.0, -1079.1616764231105)
+[08Jan2025 03:50:06.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
