@@ -557,3 +557,32 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Jan2025 02:43:35.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was burnt to a crisp whilst fighting zirrocis27
 [08Jan2025 02:43:44.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
 [08Jan2025 02:43:44.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[08Jan2025 02:46:15.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 02:46:15.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 02:47:40.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Gave 1 [Soul Torch] to zirrocis27]
+[08Jan2025 02:51:04.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
+[08Jan2025 02:51:04.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed Jxxnfx]
+[08Jan2025 02:51:15.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 02:51:15.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 02:54:31.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Gave 1 [Command Block] to Jxxnfx]
+[08Jan2025 02:54:41.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[08Jan2025 02:55:19.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to Jxxnfx]
+[08Jan2025 02:56:15.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 02:56:15.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 02:56:28.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: Disconnected
+[08Jan2025 02:56:28.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[08Jan2025 02:56:30.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 lost connection: Disconnected
+[08Jan2025 02:56:30.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 left the game
+[08Jan2025 02:56:40.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jan2025 02:56:40.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jan2025 02:56:40.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jan2025 02:56:40.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jan2025 02:56:40.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jan2025 02:56:40.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jan2025 02:56:40.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 02:56:40.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 02:56:40.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jan2025 02:56:40.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jan2025 02:56:40.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jan2025 02:56:40.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jan2025 02:56:40.901] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
