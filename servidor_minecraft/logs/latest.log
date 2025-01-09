@@ -46,3 +46,6 @@
 [09Jan2025 16:37:18.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/100.124.154.37:52551] logged in with entity id 62 at (1850.8613179148804, 120.875, -410.38963890353926)
 [09Jan2025 16:37:18.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
 [09Jan2025 16:38:35.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to -7617.700000, -35.000000, -564.980000]
+[09Jan2025 17:33:36.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to -7617.700000, -35.000000, -564.980000]
+[09Jan2025 17:34:55.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zirrocis27: Teleported zirrocis27 to 2067.500000, 200.000000, -810.500000]
+[09Jan2025 17:34:56.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 moved too quickly! 0.0,-10.529193645291315,0.0
