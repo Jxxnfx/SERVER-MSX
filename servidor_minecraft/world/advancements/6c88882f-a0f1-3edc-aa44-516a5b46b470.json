@@ -885,6 +885,7 @@
       "minecraft:spider": "2024-11-24 23:50:21 +0000",
       "minecraft:piglin_brute": "2025-01-07 04:46:04 +0000",
       "minecraft:creeper": "2025-01-07 20:20:36 +0000",
+      "minecraft:phantom": "2025-01-09 04:50:38 +0000",
       "minecraft:zombified_piglin": "2025-01-07 04:48:13 +0000",
       "minecraft:wither_skeleton": "2025-01-07 20:49:16 +0000",
       "minecraft:cave_spider": "2025-01-07 20:21:26 +0000",
@@ -2624,6 +2625,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-08 05:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-09 04:48:19 +0000"
     },
     "done": true
   },
