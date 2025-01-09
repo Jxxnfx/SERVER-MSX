@@ -3074,21 +3074,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/chest_minecart": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "has_minecart": "2025-01-08 04:08:20 +0000"
+      "has_smooth_stone": "2025-01-08 03:31:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
-      "has_glass": "2025-01-08 04:45:45 +0000"
+      "has_smooth_stone": "2025-01-08 03:31:56 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/make_a_sign_glow": {
+  "minecraft:recipes/food/honey_bottle": {
     "criteria": {
-      "make_a_sign_glow": "2025-01-08 05:18:57 +0000"
+      "has_honey_block": "2025-01-08 03:32:22 +0000"
     },
     "done": true
   },
@@ -3104,9 +3104,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/honey_bottle": {
+  "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
-      "has_honey_block": "2025-01-08 03:32:22 +0000"
+      "has_minecart": "2025-01-08 04:08:20 +0000"
     },
     "done": true
   },
@@ -3122,6 +3122,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-08 04:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-01-08 04:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-08 04:56:25 +0000"
@@ -3134,27 +3152,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/tnt_minecart": {
+  "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
-      "has_minecart": "2025-01-08 04:08:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-08 03:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-01-08 03:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_minecart": "2025-01-08 04:08:20 +0000"
+      "make_a_sign_glow": "2025-01-08 05:18:57 +0000"
     },
     "done": true
   },
